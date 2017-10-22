@@ -6,7 +6,7 @@ cd ~
 
 sudo apt-get update -qq
 
-# Add git
+# Add git and other utilities
 
 sudo apt-get install git htop bleachbit meld conky fslint handbrake hardinfo \
 wireshark dconf-editor dconf-cli dropbox geary -yy
